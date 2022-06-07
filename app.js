@@ -2,7 +2,7 @@ const app=Vue.createApp({
     //template:'<h1>Hello World{{firstName}}<h1>',
     data(){
         return {
-            firstName:'John',
+            firstName:'Johny',
             lastName:'Doe',
             email:'johndoe@example.com',
             gender:'male',
