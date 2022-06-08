@@ -3,8 +3,8 @@ const app=Vue.createApp({
     data(){
         return {
             firstName:'Johny',
-            lastName:'Doe',
-            email:'johnydoe@example.com',
+            lastName:'Depo',
+            email:'johnydepp@example.com',
             gender:'male',
             picture:'https://randomuser.me/api/portraits/men/10.jpg',
 
