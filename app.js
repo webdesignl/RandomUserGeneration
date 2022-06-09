@@ -6,7 +6,7 @@ const app=Vue.createApp({
             lastName:'Depo',
             email:'johnydepp@example.com',
             gender:'male',
-            picture:'https://randomuser.me/api/portraits/men/10.jpg',
+            picture:'https://randomuser.me/api/portraits/men/11.jpg',
 
 
         }
